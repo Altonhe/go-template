@@ -15,6 +15,7 @@
 # vendor/
 .DS_Store
 .idea/
+.idea
 .bin/
 .task
 .envrc
